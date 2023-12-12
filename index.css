@@ -1,0 +1,90 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.mainpage {
+    width: 100%;
+    height: auto;
+}
+
+.galary {
+    height: 700px;
+    width: 100%;
+    background-color: black;
+}
+
+.row1 {
+    width: 25%;
+    height: 186px;
+    transform: rotate(-45deg);
+    display: flex;
+    float: left;
+    position: relative;
+    top: 30%;
+    left: 10%;
+}
+
+.m-l-11 {
+    margin-left: 11px;
+}
+
+.m-l-16 {
+    margin-left: 16px;
+}
+
+.m-l-5 {
+    margin-left: 5px;
+}
+
+.row2 {
+    width: 37%;
+    height: 186px;
+    transform: rotate(-45deg);
+    display: flex;
+    float: left;
+    position: relative;
+    top: 40%;
+    right: 8%;
+    margin-top: 1px;
+    margin-left: 1px;
+}
+
+.row3 {   
+    width: 37.5%;
+    height: 186px;
+    transform: rotate(-45deg);
+    display: flex;
+    float: left;
+    position: relative;
+    top: 41%;
+    right: 28%;
+}
+
+.row4 {  
+    width: 25.5%;
+    height: 186px;
+    margin-top: 5px;   
+    transform: rotate(-45deg);
+    display: flex;
+    float: left;
+    margin-top: 3px;
+    margin-left: 2px;
+    position: relative;   
+    top: 24%;
+    right: 9%;
+}
+.container {
+    width: 186px;
+    height: 186px;   
+    border: solid 1px;   
+    display: flex;
+    float: left;
+}
+
+img {
+    width: 186px;
+    height: 186px;  
+}
+
